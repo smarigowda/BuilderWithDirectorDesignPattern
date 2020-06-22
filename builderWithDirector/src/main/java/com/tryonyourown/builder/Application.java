@@ -1,10 +1,10 @@
 package com.tryonyourown.builder;
 
 /**
- * Hello world!
+ * Hello Builder with Director Design Pattern !
  *
  */
-public class App 
+public class Application
 {
     public static void main( String[] args )
     {
