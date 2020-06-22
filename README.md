@@ -1,2 +1,2 @@
 # BuilderWithDirectorDesignPattern
-Demo of Builder with Directory Design Pattern
+Demo of Builder with Director Design Pattern
