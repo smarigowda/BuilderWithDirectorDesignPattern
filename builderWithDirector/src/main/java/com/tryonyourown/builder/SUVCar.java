@@ -25,6 +25,9 @@ public class SUVCar implements Car{
         return this;
     }
     public String start() {
-        return "SUV Car started...";
+        return new StringBuilder()
+                    .append("SUV Car Started...")
+                    .append("Number of Seats = ").append(this.seats)
+                    .toString();
     }
 }
